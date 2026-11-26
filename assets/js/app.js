@@ -94,8 +94,8 @@
     $('#contactList').innerHTML =
       '<li><span>' + t.whatsapp + '</span><a dir="ltr" href="' + wa(t.waGeneral) + '" target="_blank" rel="noopener">' + co.whatsappDisplay + '</a></li>' +
       '<li><span>' + t.phone + '</span><a dir="ltr" href="tel:' + co.phone + '">' + co.phoneDisplay + '</a></li>' +
-      '<li><span>' + t.email + '</span><a dir="ltr" href="mailto:' + co.email + '">' + co.email + '</a></li>' +
-      '<li><span>' + t.web + '</span><a dir="ltr" href="https://' + co.web + '" target="_blank" rel="noopener">' + co.web + '</a></li>';
+      (co.email ? '<li><span>' + t.email + '</span><a dir="ltr" href="mailto:' + co.email + '">' + co.email + '</a></li>' : '') +
+      (co.web ? '<li><span>' + t.web + '</span><a dir="ltr" href="https://' + co.web + '" target="_blank" rel="noopener">' + co.web + '</a></li>' : '');
   }
 
   function renderLineup() {

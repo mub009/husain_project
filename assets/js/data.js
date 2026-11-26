@@ -13,8 +13,8 @@ window.CATALOG = {
   "phoneDisplay": "+966 56 875 5182",
   "whatsapp": "966560951806",
   "whatsappDisplay": "+966 56 095 1806",
-  "email": "seaheartsupply@gmail.com",
-  "web": "www.seaheartbj.com"
+  "email": "",
+  "web": ""
  },
  "cats": [
   {
@@ -384,7 +384,7 @@ window.CATALOG = {
   {
    "id": "SA-DM3",
    "cat": "devices",
-   "brand": "Aurafix",
+   "brand": "SA-DM3",
    "featured": true,
    "title": {
     "en": "SA-DM3 Facial AI Intelligent Imager",
@@ -421,8 +421,7 @@ window.CATALOG = {
     ]
    },
    "images": [
-    "assets/img/devices/dm3_device.webp",
-    "assets/img/devices/dm3.webp"
+    "assets/img/devices/dm3_device.webp"
    ]
   },
   {
