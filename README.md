@@ -6,7 +6,7 @@ Plain HTML/CSS/JS — no build step. Open `index.html` in a browser or host it o
 ## What's inside
 
 - **Aesthetic devices** — HydraMaster® 14-in-1, Hydra Master™ SPA19 (9-in-1), SA-DM3 Facial AI Imager
-- **Aura Lipo post-op garments** — 49 products (corsets, vests & sleeves, abdominal binders, bras, face bands, thorax bands, accessories), each with front/back photos, description, indications and its own size chart
+- **Aurafix post-op garments** — 49 products (corsets, vests & sleeves, abdominal binders, bras, face bands, thorax bands, accessories), each with front/back photos, description, indications and its own size chart
 - Search, category tabs, product detail panel, and a WhatsApp "request a quote" button pre-filled with the product code
 - Language choice is remembered per visitor
 

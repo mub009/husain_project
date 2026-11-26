@@ -428,7 +428,7 @@ window.CATALOG = {
   {
    "id": "LC-1500",
    "cat": "corset",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Abdominal / Over-Knee Post-Op Compression Corset",
     "ar": "مشد ضغط للبطن حتى فوق الركبة"
@@ -464,7 +464,7 @@ window.CATALOG = {
   {
    "id": "LC-1505",
    "cat": "corset",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Hip Fat Transfer Over-Knee Compression Corset",
     "ar": "مشد ضغط لنقل الدهون للأرداف حتى فوق الركبة"
@@ -502,7 +502,7 @@ window.CATALOG = {
   {
    "id": "LC-1510",
    "cat": "corset",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Abdominal / Over-Knee Post-Op Corset with Straps",
     "ar": "مشد ضغط للبطن حتى فوق الركبة بحمالات"
@@ -542,7 +542,7 @@ window.CATALOG = {
   {
    "id": "LC-1520",
    "cat": "corset",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Abdominal Below-Knee Post-Op Compression Corset",
     "ar": "مشد ضغط للبطن حتى أسفل الركبة"
@@ -578,7 +578,7 @@ window.CATALOG = {
   {
    "id": "LC-1530",
    "cat": "corset",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Abdominal / Below-Knee Post-Op Corset with Straps",
     "ar": "مشد ضغط للبطن حتى أسفل الركبة بحمالات"
@@ -618,7 +618,7 @@ window.CATALOG = {
   {
    "id": "LC-1540",
    "cat": "corset",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Abdominal / Hip Post-Op Compression Corset",
     "ar": "مشد ضغط للبطن والورك"
@@ -658,7 +658,7 @@ window.CATALOG = {
   {
    "id": "LC-1542",
    "cat": "corset",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Abdominal / Hip Post-Op Compression Corset",
     "ar": "مشد ضغط للبطن والورك (موديل 1542)"
@@ -696,7 +696,7 @@ window.CATALOG = {
   {
    "id": "LC-1550",
    "cat": "corset",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Abdominal / Leg Post-Op Compression Corset",
     "ar": "مشد ضغط للبطن والساقين"
@@ -732,7 +732,7 @@ window.CATALOG = {
   {
    "id": "LC-1560",
    "cat": "corset",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Chest / Abdominal Post-Op Compression Corset",
     "ar": "مشد ضغط للصدر والبطن"
@@ -772,7 +772,7 @@ window.CATALOG = {
   {
    "id": "LC-1570",
    "cat": "corset",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Chest / Abdominal / Hip Post-Op Compression Corset",
     "ar": "مشد ضغط للصدر والبطن والورك"
@@ -808,7 +808,7 @@ window.CATALOG = {
   {
    "id": "LC-1575",
    "cat": "corset",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Abdominal / Arm / Hips Post-Op Compression Corset",
     "ar": "مشد ضغط للبطن والذراعين والورك"
@@ -844,7 +844,7 @@ window.CATALOG = {
   {
    "id": "LC-1580",
    "cat": "corset",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Abdomen / Arm / Hips Post-Op Compression Corset",
     "ar": "مشد ضغط كامل للبطن والذراعين والورك"
@@ -880,7 +880,7 @@ window.CATALOG = {
   {
    "id": "LC-1581",
    "cat": "corset",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Full Body Post-Op Compression Corset (Sleeveless)",
     "ar": "مشد ضغط لكامل الجسم بدون أكمام"
@@ -916,7 +916,7 @@ window.CATALOG = {
   {
    "id": "LC-1585",
    "cat": "corset",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Hip Fat Transfer Full Body Corset (Below Knee)",
     "ar": "مشد كامل الجسم لنقل الدهون للأرداف (أسفل الركبة)"
@@ -954,7 +954,7 @@ window.CATALOG = {
   {
    "id": "LC-1586",
    "cat": "corset",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Hip Fat Transfer Full Body Corset (Over Knee)",
     "ar": "مشد كامل الجسم لنقل الدهون للأرداف (فوق الركبة)"
@@ -992,7 +992,7 @@ window.CATALOG = {
   {
    "id": "LC-1586A",
    "cat": "corset",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Hip Fat Transfer Full Body Corset (Over Knee) – A",
     "ar": "مشد كامل الجسم لنقل الدهون للأرداف (فوق الركبة) – A"
@@ -1030,7 +1030,7 @@ window.CATALOG = {
   {
    "id": "LC-1586B",
    "cat": "corset",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Hip Fat Transfer Full Body Corset (Over Knee) – B",
     "ar": "مشد كامل الجسم لنقل الدهون للأرداف (فوق الركبة) – B"
@@ -1068,7 +1068,7 @@ window.CATALOG = {
   {
    "id": "LC-1587",
    "cat": "corset",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Hip Fat Transfer Full Body Compression Corset",
     "ar": "مشد ضغط كامل الجسم لنقل الدهون للأرداف"
@@ -1106,7 +1106,7 @@ window.CATALOG = {
   {
    "id": "LC-1588",
    "cat": "corset",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Hip Fat Transfer Full Body Compression Corset",
     "ar": "مشد ضغط كامل الجسم لنقل الدهون للأرداف (موديل 1588)"
@@ -1144,7 +1144,7 @@ window.CATALOG = {
   {
    "id": "LC-1590",
    "cat": "corset",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Abdominal / Hip Post-Op Compression Corset",
     "ar": "مشد ضغط للبطن والورك بكتف فيلكرو"
@@ -1184,7 +1184,7 @@ window.CATALOG = {
   {
    "id": "LC-1593",
    "cat": "corset",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Back / Abdominal Below-Knee Open-Chest Corset (Zipper)",
     "ar": "مشد للظهر والبطن حتى أسفل الركبة بصدر مفتوح وسحّاب"
@@ -1224,7 +1224,7 @@ window.CATALOG = {
   {
    "id": "LC-1594",
    "cat": "corset",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Abdominal / Hip Post-Op Compression Corset (Zipper)",
     "ar": "مشد ضغط للبطن والورك بسحّاب"
@@ -1264,7 +1264,7 @@ window.CATALOG = {
   {
    "id": "LC-1595",
    "cat": "corset",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Back / Abdominal / Below-Knee Open-Chest Corset",
     "ar": "مشد للظهر والبطن حتى أسفل الركبة بصدر مفتوح"
@@ -1304,7 +1304,7 @@ window.CATALOG = {
   {
    "id": "LC-1700",
    "cat": "corset",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Chest / Abdominal Post-Op Compression Corset (Men)",
     "ar": "مشد ضغط رجالي للصدر والبطن"
@@ -1338,7 +1338,7 @@ window.CATALOG = {
   {
    "id": "LC-1710",
    "cat": "corset",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Chest / Abdominal / Hip Post-Op Compression Corset (Men)",
     "ar": "مشد ضغط رجالي للصدر والبطن والورك"
@@ -1376,7 +1376,7 @@ window.CATALOG = {
   {
    "id": "LC-1720",
    "cat": "vest",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Chest / Abdominal Post-Op Compression Vest (Men)",
     "ar": "سترة ضغط رجالية للصدر والبطن"
@@ -1414,7 +1414,7 @@ window.CATALOG = {
   {
    "id": "LC-1723",
    "cat": "vest",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Chest Post-Op Compression Vest (Men)",
     "ar": "سترة ضغط رجالية للصدر"
@@ -1452,7 +1452,7 @@ window.CATALOG = {
   {
    "id": "LC-2005",
    "cat": "bandage",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Paneled Abdominal Binder",
     "ar": "حزام بطن ضاغط بلوحات"
@@ -1482,7 +1482,7 @@ window.CATALOG = {
   {
    "id": "LC-2035",
    "cat": "bandage",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "3-Panel Abdominal Binder",
     "ar": "حزام بطن ضاغط بثلاث لوحات"
@@ -1512,7 +1512,7 @@ window.CATALOG = {
   {
    "id": "LC-1600",
    "cat": "bra",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Post-Op Bra",
     "ar": "حمالة صدر طبية بعد العمليات"
@@ -1549,7 +1549,7 @@ window.CATALOG = {
   {
    "id": "LC-1610",
    "cat": "bra",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Post-Op Bra (Front Zipper)",
     "ar": "حمالة صدر طبية بسحّاب أمامي"
@@ -1586,7 +1586,7 @@ window.CATALOG = {
   {
    "id": "LC-1620",
    "cat": "bra",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Post-Op Bra with Bandage",
     "ar": "حمالة صدر طبية مع رباط تثبيت"
@@ -1623,7 +1623,7 @@ window.CATALOG = {
   {
    "id": "LC-2020",
    "cat": "bra",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Chest Band (7 cm)",
     "ar": "رباط صدر لتثبيت الحشوة (7 سم)"
@@ -1655,7 +1655,7 @@ window.CATALOG = {
   {
    "id": "LC-1600C",
    "cat": "bra",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Post-Op Bra – C Series",
     "ar": "حمالة صدر طبية – سلسلة C"
@@ -1692,7 +1692,7 @@ window.CATALOG = {
   {
    "id": "LC-1610C",
    "cat": "bra",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Post-Op Bra (Front Zipper) – C Series",
     "ar": "حمالة صدر طبية بسحّاب أمامي – سلسلة C"
@@ -1729,7 +1729,7 @@ window.CATALOG = {
   {
    "id": "LC-1620C",
    "cat": "bra",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Post-Op Bra with Bandage – C Series",
     "ar": "حمالة صدر طبية مع رباط – سلسلة C"
@@ -1766,7 +1766,7 @@ window.CATALOG = {
   {
    "id": "LC-1800",
    "cat": "face",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Face / Neck / Chin Bandage",
     "ar": "رباط الوجه والرقبة والذقن"
@@ -1796,7 +1796,7 @@ window.CATALOG = {
   {
    "id": "LC-1800E",
    "cat": "face",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Face / Neck / Chin Bandage – E",
     "ar": "رباط الوجه والرقبة والذقن – E"
@@ -1826,7 +1826,7 @@ window.CATALOG = {
   {
    "id": "LC-1810",
    "cat": "face",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Face Band",
     "ar": "رباط الوجه"
@@ -1856,7 +1856,7 @@ window.CATALOG = {
   {
    "id": "LC-1900",
    "cat": "vest",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Women Post-Op Compression Vest",
     "ar": "سترة ضغط نسائية بعد العمليات"
@@ -1890,7 +1890,7 @@ window.CATALOG = {
   {
    "id": "LC-1904",
    "cat": "vest",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Women Compression Sleeve (Closed Chest / Zipper)",
     "ar": "أكمام ضغط نسائية (صدر مغلق / سحّاب)"
@@ -1924,7 +1924,7 @@ window.CATALOG = {
   {
    "id": "LC-1905",
    "cat": "vest",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Women Post-Op Compression Vest",
     "ar": "سترة ضغط نسائية للكتف والذراع والظهر"
@@ -1958,7 +1958,7 @@ window.CATALOG = {
   {
    "id": "LC-1910",
    "cat": "vest",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Women Post-Op Compression Sleeve",
     "ar": "أكمام ضغط نسائية بعد العمليات"
@@ -1992,7 +1992,7 @@ window.CATALOG = {
   {
    "id": "LC-2030",
    "cat": "band",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Thorax Band (15 cm)",
     "ar": "حزام الصدر (15 سم)"
@@ -2022,7 +2022,7 @@ window.CATALOG = {
   {
    "id": "LC-2030A",
    "cat": "band",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Thorax Band (20 cm)",
     "ar": "حزام الصدر (20 سم)"
@@ -2052,7 +2052,7 @@ window.CATALOG = {
   {
    "id": "LC-2045",
    "cat": "accessory",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Gluteal Implant Sitting Pillow – Polyurethane",
     "ar": "وسادة جلوس بعد تكبير الأرداف – بولي يوريثان"
@@ -2080,7 +2080,7 @@ window.CATALOG = {
   {
    "id": "LC-2046",
    "cat": "accessory",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Gluteal Implant Sitting Pillow – Visco",
     "ar": "وسادة جلوس بعد تكبير الأرداف – فيسكو (ميموري فوم)"
@@ -2108,7 +2108,7 @@ window.CATALOG = {
   {
    "id": "LC-2047",
    "cat": "accessory",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Drain Set",
     "ar": "حامل أنابيب التصريف (Drain Set)"
@@ -2136,7 +2136,7 @@ window.CATALOG = {
   {
    "id": "LC-2048",
    "cat": "accessory",
-   "brand": "Aura Lipo",
+   "brand": "Aurafix",
    "title": {
     "en": "Compression Pads (4 pcs, A4)",
     "ar": "وسادات ضغط (4 قطع بمقاس A4)"
