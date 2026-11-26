@@ -13,7 +13,7 @@ window.CATALOG = {
   "phoneDisplay": "+966 56 875 5182",
   "whatsapp": "966560951806",
   "whatsappDisplay": "+966 56 095 1806",
-  "email": "",
+  "email": "Sseaheartsupply@gmail.com",
   "web": ""
  },
  "cats": [
