@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>مجموعة سي هارت | كتالوج المنتجات</title>
+<meta name="description" content="Sea Heart Group product catalog — aesthetic devices and Aura Lipo post-operative compression garments. كتالوج منتجات مجموعة سي هارت.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&family=Readex+Pro:wght@300;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<a class="skip" href="#catalog" data-i18n="skip">انتقل إلى المنتجات</a>
+
+<header class="top">
+  <div class="wrap top-in">
+    <a class="brand" href="#" aria-label="Sea Heart Group">
+      <span class="brand-name" data-i18n="company">مجموعة سي هارت</span>
+      <span class="brand-tag" data-i18n="tagline">تقنية من أجل رعاية صحية أفضل</span>
+    </a>
+    <nav class="nav" aria-label="Main">
+      <a href="#devices" data-i18n="navDevices">الأجهزة</a>
+      <a href="#catalog" data-i18n="navCatalog">المنتجات</a>
+      <a href="#contact" data-i18n="navContact">تواصل معنا</a>
+    </nav>
+    <button class="lang" id="langBtn" type="button" aria-label="Switch language">English</button>
+  </div>
+</header>
+
+<main>
+  <section class="hero">
+    <div class="wrap hero-in">
+      <div class="hero-copy">
+        <h1 data-i18n="heroTitle">كل ما تحتاجه عيادتك للتجميل والتعافي بعد العمليات</h1>
+        <p class="lead" data-i18n="heroLead">أجهزة متقدمة للعناية بالبشرة، ومشدات ضغط طبية من أورا ليبو بشهادات ISO 13485 و ISO 9001، لعيادات التجميل والجراحة التجميلية.</p>
+        <div class="hero-cta">
+          <a class="btn btn-primary" href="#catalog" data-i18n="browse">تصفح المنتجات</a>
+          <a class="btn btn-ghost" id="heroWa" href="#" target="_blank" rel="noopener" data-i18n="askQuote">اطلب عرض سعر</a>
+        </div>
+        <dl class="facts">
+          <div><dt data-i18n="f1n">52</dt><dd data-i18n="f1">منتجاً في الكتالوج</dd></div>
+          <div><dt>8</dt><dd data-i18n="f2">أسابيع من الضغط الفعّال</dd></div>
+          <div><dt>14</dt><dd data-i18n="f3">تقنية في جهاز هيدرا ماستر</dd></div>
+        </dl>
+      </div>
+      <div class="lineup" id="lineup" aria-hidden="true"></div>
+    </div>
+  </section>
+
+  <section class="devices" id="devices" aria-labelledby="devTitle">
+    <div class="wrap">
+      <h2 id="devTitle" data-i18n="devTitle">أجهزة العناية بالبشرة</h2>
+      <p class="sec-lead" data-i18n="devLead">أجهزة احترافية للعيادات ومراكز التجميل، بشهادات CE و FDA و ISO 13485.</p>
+      <div class="dev-list" id="devList"></div>
+    </div>
+  </section>
+
+  <section class="catalog" id="catalog" aria-labelledby="catTitle">
+    <div class="wrap">
+      <div class="cat-head">
+        <div>
+          <h2 id="catTitle" data-i18n="catTitle">مشدات ومستلزمات ما بعد العمليات</h2>
+          <p class="sec-lead" data-i18n="catLead">من أورا ليبو — قماش مضاد للبكتيريا، يُلبس من 4 إلى 8 أسابيع حسب كمية الدهون المزالة.</p>
+        </div>
+        <label class="search">
+          <span class="visually-hidden" data-i18n="searchLabel">ابحث في المنتجات</span>
+          <input id="q" type="search" autocomplete="off" data-i18n-ph="searchPh" placeholder="ابحث بالاسم أو الرمز، مثل LC-1500">
+        </label>
+      </div>
+      <div class="tabs" id="tabs" role="tablist"></div>
+      <p class="count" id="count" aria-live="polite"></p>
+      <div class="grid" id="grid"></div>
+      <p class="empty" id="empty" hidden data-i18n="empty">لا توجد منتجات مطابقة. جرّب كلمة أخرى أو اختر "الكل".</p>
+    </div>
+  </section>
+
+  <section class="fabrics" aria-labelledby="fabTitle">
+    <div class="wrap">
+      <h2 id="fabTitle" data-i18n="fabTitle">أقمشة أورا ليبو</h2>
+      <div class="fab-list">
+        <article><h3>Aura Lipo</h3><p data-i18n="fab1">قماش مضاد للبكتيريا يسرّع التئام مناطق العملية، متين ومرن، ويحافظ على الضغط 8 أسابيع بمقاومة مضاعفة 5 مرات.</p></article>
+        <article><h3>Aura Lipo Cotton</h3><p data-i18n="fab2">ملمس قطني ناعم وثبات كامل، مضاد للبكتيريا وللحساسية ولطيف على البشرة.</p></article>
+        <article><h3>Aura Soft</h3><p data-i18n="fab3">قماش منسوج خاص يتكيّف مع منطقة الاستخدام بمرونة عالية، ويزيد راحة المريض وسهولة الاستخدام.</p></article>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="contact" id="contact">
+  <div class="wrap contact-in">
+    <div>
+      <h2 data-i18n="contactTitle">اطلب عرض سعر أو استشارة</h2>
+      <p data-i18n="contactLead">أرسل لنا رمز المنتج والمقاس والكمية، وسنرد عليك بالسعر وموعد التوريد.</p>
+    </div>
+    <ul class="contact-list" id="contactList"></ul>
+  </div>
+  <div class="wrap legal">
+    <p><span data-i18n="company">مجموعة سي هارت</span> © <span id="yr"></span></p>
+    <p class="brochures"><span data-i18n="brochures">الكتالوجات الأصلية (PDF):</span>
+      <a href="brochures/Aura-Lipo-Catalog-EN.pdf" target="_blank" rel="noopener">Aura Lipo</a>
+      <a href="brochures/HydraMaster-14in1-Brochure.pdf" target="_blank" rel="noopener">HydraMaster 14-in-1</a>
+      <a href="brochures/HydraMaster-SPA19-Brochure.pdf" target="_blank" rel="noopener">SPA19</a>
+    </p>
+  </div>
+</footer>
+
+<a class="wa-float" id="waFloat" href="#" target="_blank" rel="noopener" aria-label="WhatsApp">
+  <svg viewBox="0 0 24 24" width="26" height="26" aria-hidden="true"><path fill="currentColor" d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2Zm0 18.2a8.2 8.2 0 0 1-4.2-1.2l-.3-.2-3 .8.8-2.9-.2-.3A8.2 8.2 0 1 1 12 20.2Zm4.5-6.1c-.2-.1-1.5-.7-1.7-.8-.2-.1-.4-.1-.6.1l-.8 1c-.1.2-.3.2-.5.1a6.7 6.7 0 0 1-3.3-2.9c-.2-.4.2-.4.7-1.3.1-.2 0-.3 0-.4l-.8-1.8c-.2-.5-.4-.4-.6-.4h-.5a1 1 0 0 0-.7.3 3 3 0 0 0-.9 2.2 5.2 5.2 0 0 0 1.1 2.7 11.8 11.8 0 0 0 4.5 4c1.7.7 2.3.8 3.2.6.5-.1 1.5-.6 1.7-1.2.2-.6.2-1.1.2-1.2-.1-.1-.3-.2-.5-.3Z"/></svg>
+</a>
+
+<div class="sheet" id="sheet" hidden>
+  <div class="sheet-backdrop" data-close></div>
+  <article class="sheet-panel" role="dialog" aria-modal="true" aria-labelledby="sheetTitle" tabindex="-1">
+    <button class="sheet-close" type="button" data-close aria-label="Close">×</button>
+    <div id="sheetBody"></div>
+  </article>
+</div>
+
+<script src="assets/js/data.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>
