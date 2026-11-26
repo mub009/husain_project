@@ -227,3 +227,4 @@ html[dir="rtl"] .ticks li::before { transform: rotate(45deg) scaleX(-1); }
   .hero-cta { gap: 8px; }
   .hero-cta .btn { flex: 1 1 0; min-width: 0; padding: 12px 10px; font-size: .92rem; white-space: nowrap; }
 }
+.hero-brand { margin-inline: auto; }
