@@ -221,3 +221,9 @@ html[dir="rtl"] .ticks li::before { transform: rotate(45deg) scaleX(-1); }
 .foot-brand img { height: 30px; width: auto; }
 .hero-brand { display: block; margin-top: 28px; height: 44px !important; width: auto !important; max-width: 80vw; }
 @media (max-width: 640px) { .hero-brand { height: 34px !important; margin-top: 22px; } }
+/* hero buttons always side by side */
+.hero-cta { flex-wrap: nowrap; }
+@media (max-width: 640px) {
+  .hero-cta { gap: 8px; }
+  .hero-cta .btn { flex: 1 1 0; min-width: 0; padding: 12px 10px; font-size: .92rem; white-space: nowrap; }
+}
