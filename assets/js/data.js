@@ -434,8 +434,8 @@ window.CATALOG = {
     "ar": "مشد ضغط للبطن حتى فوق الركبة"
    },
    "desc": {
-    "en": "It is a compression garment made of Auralipo fabric which is used after liposuction operations in abdominal and hip body areas. Auralipo fabric provides compression for 8 weeks with its 5 fold resistance feature. Produced with semi seamless technology, the corset covers the body like a second skin. The hooks used in the 3-row clasp system allow easy putting on and taking off. Besides, hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression.",
-    "ar": "مشد ضغط مصنوع من قماش أورا ليبو، يُستخدم بعد عمليات شفط الدهون في البطن والورك. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. مصنوع بتقنية شبه خالية من الخياطة فيغطي الجسم كبشرة ثانية. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
+    "en": "It is a compression garment made of Aurafix fabric which is used after liposuction operations in abdominal and hip body areas. Aurafix fabric provides compression for 8 weeks with its 5 fold resistance feature. Produced with semi seamless technology, the corset covers the body like a second skin. The hooks used in the 3-row clasp system allow easy putting on and taking off. Besides, hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression.",
+    "ar": "مشد ضغط مصنوع من قماش أورافكس، يُستخدم بعد عمليات شفط الدهون في البطن والورك. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. مصنوع بتقنية شبه خالية من الخياطة فيغطي الجسم كبشرة ثانية. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
    },
    "ind": {
     "en": [
@@ -470,8 +470,8 @@ window.CATALOG = {
     "ar": "مشد ضغط لنقل الدهون للأرداف حتى فوق الركبة"
    },
    "desc": {
-    "en": "It is a compression garment made of Auralipo fabric used after liposuction operations in the abdomen, hip and back body areas. Auralipo fabric provides compression for 8 weeks with its 5 fold resistance feature. Hooks used in the 3-row clasp system provide easy putting on and taking off.",
-    "ar": "مشد ضغط مصنوع من قماش أورا ليبو، يُستخدم بعد عمليات شفط الدهون في البطن والورك والظهر. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
+    "en": "It is a compression garment made of Aurafix fabric used after liposuction operations in the abdomen, hip and back body areas. Aurafix fabric provides compression for 8 weeks with its 5 fold resistance feature. Hooks used in the 3-row clasp system provide easy putting on and taking off.",
+    "ar": "مشد ضغط مصنوع من قماش أورافكس، يُستخدم بعد عمليات شفط الدهون في البطن والورك والظهر. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
    },
    "ind": {
     "en": [
@@ -508,8 +508,8 @@ window.CATALOG = {
     "ar": "مشد ضغط للبطن حتى فوق الركبة بحمالات"
    },
    "desc": {
-    "en": "It is a compression garment made of Auralipo fabric used after fat removal operations in the abdomen and leg areas. Auralipo fabric provides compression for 8 weeks with its 5-fold resistance. Produced with semi seamless technology, the corset wraps the body like a skin. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression. Since the width of the straps used expands the compression surface area, the carrying durability is at a high level.",
-    "ar": "مشد ضغط مصنوع من قماش أورا ليبو، يُستخدم بعد عمليات شفط الدهون في البطن والساقين. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. مصنوع بتقنية شبه خالية من الخياطة فيغطي الجسم كبشرة ثانية. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض. الحمالات العريضة توسّع مساحة الضغط وتمنح ثباتاً وتحمّلاً عالياً."
+    "en": "It is a compression garment made of Aurafix fabric used after fat removal operations in the abdomen and leg areas. Aurafix fabric provides compression for 8 weeks with its 5-fold resistance. Produced with semi seamless technology, the corset wraps the body like a skin. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression. Since the width of the straps used expands the compression surface area, the carrying durability is at a high level.",
+    "ar": "مشد ضغط مصنوع من قماش أورافكس، يُستخدم بعد عمليات شفط الدهون في البطن والساقين. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. مصنوع بتقنية شبه خالية من الخياطة فيغطي الجسم كبشرة ثانية. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض. الحمالات العريضة توسّع مساحة الضغط وتمنح ثباتاً وتحمّلاً عالياً."
    },
    "ind": {
     "en": [
@@ -548,8 +548,8 @@ window.CATALOG = {
     "ar": "مشد ضغط للبطن حتى أسفل الركبة"
    },
    "desc": {
-    "en": "It is a compression garment made of Auralipo fabric used after fat removal operations in the abdominal and hip areas. Auralipo fabric provides compression for 8 weeks with its 5-fold resistance. Produced with semi seamless technology, the corset wraps the body like a second skin. Seamless technology provides better and more comfortable compression. The hooks used in the 3-row clasp system provide easy putting on and taking off. It also provides a personalized experience in the compression of the corset with its 3-stage hook system.",
-    "ar": "مشد ضغط مصنوع من قماش أورا ليبو، يُستخدم بعد عمليات شفط الدهون في البطن والورك. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. مصنوع بتقنية شبه خالية من الخياطة فيغطي الجسم كبشرة ثانية. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
+    "en": "It is a compression garment made of Aurafix fabric used after fat removal operations in the abdominal and hip areas. Aurafix fabric provides compression for 8 weeks with its 5-fold resistance. Produced with semi seamless technology, the corset wraps the body like a second skin. Seamless technology provides better and more comfortable compression. The hooks used in the 3-row clasp system provide easy putting on and taking off. It also provides a personalized experience in the compression of the corset with its 3-stage hook system.",
+    "ar": "مشد ضغط مصنوع من قماش أورافكس، يُستخدم بعد عمليات شفط الدهون في البطن والورك. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. مصنوع بتقنية شبه خالية من الخياطة فيغطي الجسم كبشرة ثانية. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
    },
    "ind": {
     "en": [
@@ -584,8 +584,8 @@ window.CATALOG = {
     "ar": "مشد ضغط للبطن حتى أسفل الركبة بحمالات"
    },
    "desc": {
-    "en": "It is a compression garment made of Auralipo fabric used after fat removal operations in the abdomen and leg areas. Auralipo fabric provides compression for 8 weeks with its 5-fold resistance. Produced with semi seamless technology, the corset wraps the body like a skin. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression. Since the width of the straps used expands the compression surface area, the carrying durability is at a high level.",
-    "ar": "مشد ضغط مصنوع من قماش أورا ليبو، يُستخدم بعد عمليات شفط الدهون في البطن والساقين. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. مصنوع بتقنية شبه خالية من الخياطة فيغطي الجسم كبشرة ثانية. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض. الحمالات العريضة توسّع مساحة الضغط وتمنح ثباتاً وتحمّلاً عالياً."
+    "en": "It is a compression garment made of Aurafix fabric used after fat removal operations in the abdomen and leg areas. Aurafix fabric provides compression for 8 weeks with its 5-fold resistance. Produced with semi seamless technology, the corset wraps the body like a skin. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression. Since the width of the straps used expands the compression surface area, the carrying durability is at a high level.",
+    "ar": "مشد ضغط مصنوع من قماش أورافكس، يُستخدم بعد عمليات شفط الدهون في البطن والساقين. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. مصنوع بتقنية شبه خالية من الخياطة فيغطي الجسم كبشرة ثانية. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض. الحمالات العريضة توسّع مساحة الضغط وتمنح ثباتاً وتحمّلاً عالياً."
    },
    "ind": {
     "en": [
@@ -624,8 +624,8 @@ window.CATALOG = {
     "ar": "مشد ضغط للبطن والورك"
    },
    "desc": {
-    "en": "It is a compression garment made of Auralipo fabric used after fat removal operations in the abdomen, buttocks, waist and back areas. Auralipo fabric provides compression for 8 weeks with its 5-fold resistance. Produced with seamless technology, the corset wraps the body like a skin. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression. Since the width of the straps used expands the compression surface area, the carrying durability is at a high level.",
-    "ar": "مشد ضغط مصنوع من قماش أورا ليبو، يُستخدم بعد عمليات شفط الدهون في البطن والأرداف والخصر والظهر. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. مصنوع بتقنية بدون خياطة فيلتف حول الجسم كبشرة ثانية. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض. الحمالات العريضة توسّع مساحة الضغط وتمنح ثباتاً وتحمّلاً عالياً."
+    "en": "It is a compression garment made of Aurafix fabric used after fat removal operations in the abdomen, buttocks, waist and back areas. Aurafix fabric provides compression for 8 weeks with its 5-fold resistance. Produced with seamless technology, the corset wraps the body like a skin. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression. Since the width of the straps used expands the compression surface area, the carrying durability is at a high level.",
+    "ar": "مشد ضغط مصنوع من قماش أورافكس، يُستخدم بعد عمليات شفط الدهون في البطن والأرداف والخصر والظهر. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. مصنوع بتقنية بدون خياطة فيلتف حول الجسم كبشرة ثانية. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض. الحمالات العريضة توسّع مساحة الضغط وتمنح ثباتاً وتحمّلاً عالياً."
    },
    "ind": {
     "en": [
@@ -664,8 +664,8 @@ window.CATALOG = {
     "ar": "مشد ضغط للبطن والورك (موديل 1542)"
    },
    "desc": {
-    "en": "It is a compression garment made of Auralipo fabric used after fat removal operations in the abdomen, buttocks, waist and back areas. Auralipo fabric provides compression for 8 weeks with its 5-fold resistance. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression. Since the width of the straps used expands the compression surface area, the carrying durability is at a high level.",
-    "ar": "مشد ضغط مصنوع من قماش أورا ليبو، يُستخدم بعد عمليات شفط الدهون في البطن والأرداف والخصر والظهر. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض. الحمالات العريضة توسّع مساحة الضغط وتمنح ثباتاً وتحمّلاً عالياً."
+    "en": "It is a compression garment made of Aurafix fabric used after fat removal operations in the abdomen, buttocks, waist and back areas. Aurafix fabric provides compression for 8 weeks with its 5-fold resistance. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression. Since the width of the straps used expands the compression surface area, the carrying durability is at a high level.",
+    "ar": "مشد ضغط مصنوع من قماش أورافكس، يُستخدم بعد عمليات شفط الدهون في البطن والأرداف والخصر والظهر. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض. الحمالات العريضة توسّع مساحة الضغط وتمنح ثباتاً وتحمّلاً عالياً."
    },
    "ind": {
     "en": [
@@ -702,8 +702,8 @@ window.CATALOG = {
     "ar": "مشد ضغط للبطن والساقين"
    },
    "desc": {
-    "en": "It is a compression garment made of Auralipo fabric used after fat removal operations in the abdomen and leg areas. Auralipo fabric provides compression for 8 weeks with its 5-fold resistance. Produced with semi seamless technology, the corset wraps the body like a second skin. The hooks used in the 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression.",
-    "ar": "مشد ضغط مصنوع من قماش أورا ليبو، يُستخدم بعد عمليات شفط الدهون في البطن والساقين. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. مصنوع بتقنية شبه خالية من الخياطة فيغطي الجسم كبشرة ثانية. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
+    "en": "It is a compression garment made of Aurafix fabric used after fat removal operations in the abdomen and leg areas. Aurafix fabric provides compression for 8 weeks with its 5-fold resistance. Produced with semi seamless technology, the corset wraps the body like a second skin. The hooks used in the 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression.",
+    "ar": "مشد ضغط مصنوع من قماش أورافكس، يُستخدم بعد عمليات شفط الدهون في البطن والساقين. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. مصنوع بتقنية شبه خالية من الخياطة فيغطي الجسم كبشرة ثانية. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
    },
    "ind": {
     "en": [
@@ -738,8 +738,8 @@ window.CATALOG = {
     "ar": "مشد ضغط للصدر والبطن"
    },
    "desc": {
-    "en": "It is a compression garment made of Auralipo fabric used after fat removal operations in the abdomen, legs, hips and back areas. Auralipo fabric provides compression for 8 weeks with its 5-fold resistance. Produced with semi seamless technology, the corset wraps the body like a skin. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression. Since the width of the straps used expands the compression surface area, the carrying durability is at a high level.",
-    "ar": "مشد ضغط مصنوع من قماش أورا ليبو، يُستخدم بعد عمليات شفط الدهون في البطن والساقين والورك والظهر. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. مصنوع بتقنية شبه خالية من الخياطة فيغطي الجسم كبشرة ثانية. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض. الحمالات العريضة توسّع مساحة الضغط وتمنح ثباتاً وتحمّلاً عالياً."
+    "en": "It is a compression garment made of Aurafix fabric used after fat removal operations in the abdomen, legs, hips and back areas. Aurafix fabric provides compression for 8 weeks with its 5-fold resistance. Produced with semi seamless technology, the corset wraps the body like a skin. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression. Since the width of the straps used expands the compression surface area, the carrying durability is at a high level.",
+    "ar": "مشد ضغط مصنوع من قماش أورافكس، يُستخدم بعد عمليات شفط الدهون في البطن والساقين والورك والظهر. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. مصنوع بتقنية شبه خالية من الخياطة فيغطي الجسم كبشرة ثانية. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض. الحمالات العريضة توسّع مساحة الضغط وتمنح ثباتاً وتحمّلاً عالياً."
    },
    "ind": {
     "en": [
@@ -778,8 +778,8 @@ window.CATALOG = {
     "ar": "مشد ضغط للصدر والبطن والورك"
    },
    "desc": {
-    "en": "It is a compression garment made of Auralipo fabric used after fat removal operations in the arm, buttocks, breast, abdomen and back areas. Auralipo fabric provides compression for 8 weeks with its 5-fold resistance. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression.",
-    "ar": "مشد ضغط مصنوع من قماش أورا ليبو، يُستخدم بعد عمليات شفط الدهون في الذراعين والأرداف والصدر والبطن والظهر. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
+    "en": "It is a compression garment made of Aurafix fabric used after fat removal operations in the arm, buttocks, breast, abdomen and back areas. Aurafix fabric provides compression for 8 weeks with its 5-fold resistance. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression.",
+    "ar": "مشد ضغط مصنوع من قماش أورافكس، يُستخدم بعد عمليات شفط الدهون في الذراعين والأرداف والصدر والبطن والظهر. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
    },
    "ind": {
     "en": [
@@ -814,8 +814,8 @@ window.CATALOG = {
     "ar": "مشد ضغط للبطن والذراعين والورك"
    },
    "desc": {
-    "en": "It is a compression garment made of Auralipo fabric used after fat removal operations in the arm, buttocks, breast, abdomen and back areas. Auralipo fabric provides compression for 8 weeks with its 5-fold resistance. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression.",
-    "ar": "مشد ضغط مصنوع من قماش أورا ليبو، يُستخدم بعد عمليات شفط الدهون في الذراعين والأرداف والصدر والبطن والظهر. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
+    "en": "It is a compression garment made of Aurafix fabric used after fat removal operations in the arm, buttocks, breast, abdomen and back areas. Aurafix fabric provides compression for 8 weeks with its 5-fold resistance. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression.",
+    "ar": "مشد ضغط مصنوع من قماش أورافكس، يُستخدم بعد عمليات شفط الدهون في الذراعين والأرداف والصدر والبطن والظهر. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
    },
    "ind": {
     "en": [
@@ -850,8 +850,8 @@ window.CATALOG = {
     "ar": "مشد ضغط كامل للبطن والذراعين والورك"
    },
    "desc": {
-    "en": "It is a compression garment made of Auralipo fabric used after fat removal operations on buttocks, breasts, abdomen, thighs, knees and all body parts. Auralipo fabric provides compression for 8 weeks with its 5-fold resistance. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience compression.",
-    "ar": "مشد ضغط مصنوع من قماش أورا ليبو، يُستخدم بعد عمليات شفط الدهون في الأرداف والصدر والبطن والفخذين والركبتين وكامل الجسم. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
+    "en": "It is a compression garment made of Aurafix fabric used after fat removal operations on buttocks, breasts, abdomen, thighs, knees and all body parts. Aurafix fabric provides compression for 8 weeks with its 5-fold resistance. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience compression.",
+    "ar": "مشد ضغط مصنوع من قماش أورافكس، يُستخدم بعد عمليات شفط الدهون في الأرداف والصدر والبطن والفخذين والركبتين وكامل الجسم. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
    },
    "ind": {
     "en": [
@@ -886,8 +886,8 @@ window.CATALOG = {
     "ar": "مشد ضغط لكامل الجسم بدون أكمام"
    },
    "desc": {
-    "en": "It is a compression garment made of Auralipo fabric used after fat removal operations on buttocks, breasts, abdomen, thighs, knees and all body parts. Auralipo fabric provides compression for 8 weeks with its 5-fold resistance. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression.",
-    "ar": "مشد ضغط مصنوع من قماش أورا ليبو، يُستخدم بعد عمليات شفط الدهون في الأرداف والصدر والبطن والفخذين والركبتين وكامل الجسم. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
+    "en": "It is a compression garment made of Aurafix fabric used after fat removal operations on buttocks, breasts, abdomen, thighs, knees and all body parts. Aurafix fabric provides compression for 8 weeks with its 5-fold resistance. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression.",
+    "ar": "مشد ضغط مصنوع من قماش أورافكس، يُستخدم بعد عمليات شفط الدهون في الأرداف والصدر والبطن والفخذين والركبتين وكامل الجسم. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
    },
    "ind": {
     "en": [
@@ -922,8 +922,8 @@ window.CATALOG = {
     "ar": "مشد كامل الجسم لنقل الدهون للأرداف (أسفل الركبة)"
    },
    "desc": {
-    "en": "It is a compression garment made of Auralipo fabric used after fat removal operations in the hip area. Auralipo fabric provides compression for 8 weeks with its 5-fold resistance. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression. Since the width of the straps used expands the compression surface area, the carrying durability is at a high level.",
-    "ar": "مشد ضغط مصنوع من قماش أورا ليبو، يُستخدم بعد عمليات شفط الدهون في منطقة الورك والأرداف. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض. الحمالات العريضة توسّع مساحة الضغط وتمنح ثباتاً وتحمّلاً عالياً."
+    "en": "It is a compression garment made of Aurafix fabric used after fat removal operations in the hip area. Aurafix fabric provides compression for 8 weeks with its 5-fold resistance. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression. Since the width of the straps used expands the compression surface area, the carrying durability is at a high level.",
+    "ar": "مشد ضغط مصنوع من قماش أورافكس، يُستخدم بعد عمليات شفط الدهون في منطقة الورك والأرداف. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض. الحمالات العريضة توسّع مساحة الضغط وتمنح ثباتاً وتحمّلاً عالياً."
    },
    "ind": {
     "en": [
@@ -960,8 +960,8 @@ window.CATALOG = {
     "ar": "مشد كامل الجسم لنقل الدهون للأرداف (فوق الركبة)"
    },
    "desc": {
-    "en": "It is a compression garment made of Auralipo fabric used after fat removal operations in the hip area. Auralipo fabric provides compression for 8 weeks with its 5-fold resistance. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression. Since the width of the straps used expands the compression surface area, the carrying durability is at a high level.",
-    "ar": "مشد ضغط مصنوع من قماش أورا ليبو، يُستخدم بعد عمليات شفط الدهون في منطقة الورك والأرداف. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض. الحمالات العريضة توسّع مساحة الضغط وتمنح ثباتاً وتحمّلاً عالياً."
+    "en": "It is a compression garment made of Aurafix fabric used after fat removal operations in the hip area. Aurafix fabric provides compression for 8 weeks with its 5-fold resistance. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression. Since the width of the straps used expands the compression surface area, the carrying durability is at a high level.",
+    "ar": "مشد ضغط مصنوع من قماش أورافكس، يُستخدم بعد عمليات شفط الدهون في منطقة الورك والأرداف. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض. الحمالات العريضة توسّع مساحة الضغط وتمنح ثباتاً وتحمّلاً عالياً."
    },
    "ind": {
     "en": [
@@ -998,8 +998,8 @@ window.CATALOG = {
     "ar": "مشد كامل الجسم لنقل الدهون للأرداف (فوق الركبة) – A"
    },
    "desc": {
-    "en": "It is a compression garment made of Auralipo fabric used after fat removal operations in the hip area. Auralipo fabric provides compression for 8 weeks with its 5-fold resistance. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression. Since the width of the straps used expands the compression surface area, the carrying durability is at a high level.",
-    "ar": "مشد ضغط مصنوع من قماش أورا ليبو، يُستخدم بعد عمليات شفط الدهون في منطقة الورك والأرداف. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض. الحمالات العريضة توسّع مساحة الضغط وتمنح ثباتاً وتحمّلاً عالياً."
+    "en": "It is a compression garment made of Aurafix fabric used after fat removal operations in the hip area. Aurafix fabric provides compression for 8 weeks with its 5-fold resistance. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression. Since the width of the straps used expands the compression surface area, the carrying durability is at a high level.",
+    "ar": "مشد ضغط مصنوع من قماش أورافكس، يُستخدم بعد عمليات شفط الدهون في منطقة الورك والأرداف. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض. الحمالات العريضة توسّع مساحة الضغط وتمنح ثباتاً وتحمّلاً عالياً."
    },
    "ind": {
     "en": [
@@ -1036,8 +1036,8 @@ window.CATALOG = {
     "ar": "مشد كامل الجسم لنقل الدهون للأرداف (فوق الركبة) – B"
    },
    "desc": {
-    "en": "It is a compression garment made of Auralipo fabric used after fat removal operations in the hip area. Auralipo fabric provides compression for 8 weeks with its 5-fold resistance. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression. Since the width of the straps used expands the compression surface area, the carrying durability is at a high level.",
-    "ar": "مشد ضغط مصنوع من قماش أورا ليبو، يُستخدم بعد عمليات شفط الدهون في منطقة الورك والأرداف. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض. الحمالات العريضة توسّع مساحة الضغط وتمنح ثباتاً وتحمّلاً عالياً."
+    "en": "It is a compression garment made of Aurafix fabric used after fat removal operations in the hip area. Aurafix fabric provides compression for 8 weeks with its 5-fold resistance. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression. Since the width of the straps used expands the compression surface area, the carrying durability is at a high level.",
+    "ar": "مشد ضغط مصنوع من قماش أورافكس، يُستخدم بعد عمليات شفط الدهون في منطقة الورك والأرداف. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض. الحمالات العريضة توسّع مساحة الضغط وتمنح ثباتاً وتحمّلاً عالياً."
    },
    "ind": {
     "en": [
@@ -1074,8 +1074,8 @@ window.CATALOG = {
     "ar": "مشد ضغط كامل الجسم لنقل الدهون للأرداف"
    },
    "desc": {
-    "en": "It is a compression garment made of Auralipo fabric used after fat removal operations in the hip area. Auralipo fabric provides compression for 8 weeks with its 5-fold resistance. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression. Since the width of the straps used expands the compression surface area, the carrying durability is at a high level.",
-    "ar": "مشد ضغط مصنوع من قماش أورا ليبو، يُستخدم بعد عمليات شفط الدهون في منطقة الورك والأرداف. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض. الحمالات العريضة توسّع مساحة الضغط وتمنح ثباتاً وتحمّلاً عالياً."
+    "en": "It is a compression garment made of Aurafix fabric used after fat removal operations in the hip area. Aurafix fabric provides compression for 8 weeks with its 5-fold resistance. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression. Since the width of the straps used expands the compression surface area, the carrying durability is at a high level.",
+    "ar": "مشد ضغط مصنوع من قماش أورافكس، يُستخدم بعد عمليات شفط الدهون في منطقة الورك والأرداف. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض. الحمالات العريضة توسّع مساحة الضغط وتمنح ثباتاً وتحمّلاً عالياً."
    },
    "ind": {
     "en": [
@@ -1112,8 +1112,8 @@ window.CATALOG = {
     "ar": "مشد ضغط كامل الجسم لنقل الدهون للأرداف (موديل 1588)"
    },
    "desc": {
-    "en": "It is a compression garment made of Auralipo fabric used after fat removal operations in the hip area. Auralipo fabric provides compression for 8 weeks with its 5-fold resistance. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression. Since the width of the straps used expands the compression surface area, the carrying durability is at a high level.",
-    "ar": "مشد ضغط مصنوع من قماش أورا ليبو، يُستخدم بعد عمليات شفط الدهون في منطقة الورك والأرداف. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض. الحمالات العريضة توسّع مساحة الضغط وتمنح ثباتاً وتحمّلاً عالياً."
+    "en": "It is a compression garment made of Aurafix fabric used after fat removal operations in the hip area. Aurafix fabric provides compression for 8 weeks with its 5-fold resistance. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression. Since the width of the straps used expands the compression surface area, the carrying durability is at a high level.",
+    "ar": "مشد ضغط مصنوع من قماش أورافكس، يُستخدم بعد عمليات شفط الدهون في منطقة الورك والأرداف. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض. الحمالات العريضة توسّع مساحة الضغط وتمنح ثباتاً وتحمّلاً عالياً."
    },
    "ind": {
     "en": [
@@ -1150,8 +1150,8 @@ window.CATALOG = {
     "ar": "مشد ضغط للبطن والورك بكتف فيلكرو"
    },
    "desc": {
-    "en": "It is a compression garment made of Auralipo fabric used after fat removal operations in the abdomen, buttocks, waist and back areas. Auralipo fabric provides compression for 8 weeks with its 5-fold resistance. Produced with seamless technology, the corset wraps the body like a skin. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression. The velcro system used offers the patient the highest comfort for shoulder carrying.",
-    "ar": "مشد ضغط مصنوع من قماش أورا ليبو، يُستخدم بعد عمليات شفط الدهون في البطن والأرداف والخصر والظهر. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. مصنوع بتقنية بدون خياطة فيلتف حول الجسم كبشرة ثانية. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض. نظام الفيلكرو على الكتفين يمنح المريض أعلى درجات الراحة."
+    "en": "It is a compression garment made of Aurafix fabric used after fat removal operations in the abdomen, buttocks, waist and back areas. Aurafix fabric provides compression for 8 weeks with its 5-fold resistance. Produced with seamless technology, the corset wraps the body like a skin. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression. The velcro system used offers the patient the highest comfort for shoulder carrying.",
+    "ar": "مشد ضغط مصنوع من قماش أورافكس، يُستخدم بعد عمليات شفط الدهون في البطن والأرداف والخصر والظهر. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. مصنوع بتقنية بدون خياطة فيلتف حول الجسم كبشرة ثانية. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض. نظام الفيلكرو على الكتفين يمنح المريض أعلى درجات الراحة."
    },
    "ind": {
     "en": [
@@ -1190,8 +1190,8 @@ window.CATALOG = {
     "ar": "مشد للظهر والبطن حتى أسفل الركبة بصدر مفتوح وسحّاب"
    },
    "desc": {
-    "en": "It is a compression garment made of Auralipo fabric used after fat removal operations in the abdomen, hips and back areas. Auralipo fabric provides compression for 8 weeks with its 5-fold resistance. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression. Since the width of the straps used expands the compression surface area, the carrying durability is at a high level.",
-    "ar": "مشد ضغط مصنوع من قماش أورا ليبو، يُستخدم بعد عمليات شفط الدهون في البطن والورك والظهر. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض. الحمالات العريضة توسّع مساحة الضغط وتمنح ثباتاً وتحمّلاً عالياً. سحّاب يسهّل اللبس والخلع."
+    "en": "It is a compression garment made of Aurafix fabric used after fat removal operations in the abdomen, hips and back areas. Aurafix fabric provides compression for 8 weeks with its 5-fold resistance. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression. Since the width of the straps used expands the compression surface area, the carrying durability is at a high level.",
+    "ar": "مشد ضغط مصنوع من قماش أورافكس، يُستخدم بعد عمليات شفط الدهون في البطن والورك والظهر. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض. الحمالات العريضة توسّع مساحة الضغط وتمنح ثباتاً وتحمّلاً عالياً. سحّاب يسهّل اللبس والخلع."
    },
    "ind": {
     "en": [
@@ -1230,8 +1230,8 @@ window.CATALOG = {
     "ar": "مشد ضغط للبطن والورك بسحّاب"
    },
    "desc": {
-    "en": "It is a compression garment made of Auralipo fabric used after fat removal operations in the abdomen, hips and back areas. Auralipo fabric provides compression for 8 weeks with its 5-fold resistance. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression. Since the width of the straps used expands the compression surface area, the carrying durability is at a high level.",
-    "ar": "مشد ضغط مصنوع من قماش أورا ليبو، يُستخدم بعد عمليات شفط الدهون في البطن والورك والظهر. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض. الحمالات العريضة توسّع مساحة الضغط وتمنح ثباتاً وتحمّلاً عالياً. سحّاب يسهّل اللبس والخلع."
+    "en": "It is a compression garment made of Aurafix fabric used after fat removal operations in the abdomen, hips and back areas. Aurafix fabric provides compression for 8 weeks with its 5-fold resistance. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression. Since the width of the straps used expands the compression surface area, the carrying durability is at a high level.",
+    "ar": "مشد ضغط مصنوع من قماش أورافكس، يُستخدم بعد عمليات شفط الدهون في البطن والورك والظهر. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض. الحمالات العريضة توسّع مساحة الضغط وتمنح ثباتاً وتحمّلاً عالياً. سحّاب يسهّل اللبس والخلع."
    },
    "ind": {
     "en": [
@@ -1270,8 +1270,8 @@ window.CATALOG = {
     "ar": "مشد للظهر والبطن حتى أسفل الركبة بصدر مفتوح"
    },
    "desc": {
-    "en": "It is a compression garment made of Auralipo fabric used after fat removal operations in the abdomen, hips and back areas. Auralipo fabric provides compression for 8 weeks with its 5-fold resistance. Produced with seamless technology, the corset wraps the body like a skin. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression. Since the width of the straps used expands the compression surface area, the carrying durability is at a high level.",
-    "ar": "مشد ضغط مصنوع من قماش أورا ليبو، يُستخدم بعد عمليات شفط الدهون في البطن والورك والظهر. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. مصنوع بتقنية بدون خياطة فيلتف حول الجسم كبشرة ثانية. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض. الحمالات العريضة توسّع مساحة الضغط وتمنح ثباتاً وتحمّلاً عالياً."
+    "en": "It is a compression garment made of Aurafix fabric used after fat removal operations in the abdomen, hips and back areas. Aurafix fabric provides compression for 8 weeks with its 5-fold resistance. Produced with seamless technology, the corset wraps the body like a skin. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression. Since the width of the straps used expands the compression surface area, the carrying durability is at a high level.",
+    "ar": "مشد ضغط مصنوع من قماش أورافكس، يُستخدم بعد عمليات شفط الدهون في البطن والورك والظهر. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. مصنوع بتقنية بدون خياطة فيلتف حول الجسم كبشرة ثانية. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض. الحمالات العريضة توسّع مساحة الضغط وتمنح ثباتاً وتحمّلاً عالياً."
    },
    "ind": {
     "en": [
@@ -1310,8 +1310,8 @@ window.CATALOG = {
     "ar": "مشد ضغط رجالي للصدر والبطن"
    },
    "desc": {
-    "en": "It is a compression garment made of Auralipo fabric used after breast reduction and tummy tuck operations. Auralipo fabric provides compression for 8 weeks with its 5-fold resistance.",
-    "ar": "مشد ضغط رجالي مصنوع من قماش أورا ليبو، يُستخدم بعد عمليات تصغير الصدر (التثدي) وشد البطن. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات."
+    "en": "It is a compression garment made of Aurafix fabric used after breast reduction and tummy tuck operations. Aurafix fabric provides compression for 8 weeks with its 5-fold resistance.",
+    "ar": "مشد ضغط رجالي مصنوع من قماش أورافكس، يُستخدم بعد عمليات تصغير الصدر (التثدي) وشد البطن. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات."
    },
    "ind": {
     "en": [
@@ -1344,8 +1344,8 @@ window.CATALOG = {
     "ar": "مشد ضغط رجالي للصدر والبطن والورك"
    },
    "desc": {
-    "en": "It is a compression garment made of Auralipo fabric used after breast reduction, tummy tuck and upper body liposuction operations. Auralipo fabric provides compression for 8 weeks with its 5-fold resistance. Produced with seamless technology, the corset wraps the body like a skin. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression.",
-    "ar": "مشد ضغط رجالي من قماش أورا ليبو، يُستخدم بعد عمليات تصغير الصدر وشد البطن وشفط دهون الجزء العلوي من الجسم. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
+    "en": "It is a compression garment made of Aurafix fabric used after breast reduction, tummy tuck and upper body liposuction operations. Aurafix fabric provides compression for 8 weeks with its 5-fold resistance. Produced with seamless technology, the corset wraps the body like a skin. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression.",
+    "ar": "مشد ضغط رجالي من قماش أورافكس، يُستخدم بعد عمليات تصغير الصدر وشد البطن وشفط دهون الجزء العلوي من الجسم. يوفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومته المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
    },
    "ind": {
     "en": [
@@ -1382,8 +1382,8 @@ window.CATALOG = {
     "ar": "سترة ضغط رجالية للصدر والبطن"
    },
    "desc": {
-    "en": "It is a compression garment made of Auralipo fabric used after breast reduction and tummy tuck operations. Auralipo fabric provides compression for 8 weeks with its 5-fold resistance. Produced with seamless technology, the corset wraps the body like a skin. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression.",
-    "ar": "سترة ضغط رجالية من قماش أورا ليبو، تُستخدم بعد عمليات تصغير الصدر وشد البطن. توفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومتها المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
+    "en": "It is a compression garment made of Aurafix fabric used after breast reduction and tummy tuck operations. Aurafix fabric provides compression for 8 weeks with its 5-fold resistance. Produced with seamless technology, the corset wraps the body like a skin. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression.",
+    "ar": "سترة ضغط رجالية من قماش أورافكس، تُستخدم بعد عمليات تصغير الصدر وشد البطن. توفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومتها المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
    },
    "ind": {
     "en": [
@@ -1420,8 +1420,8 @@ window.CATALOG = {
     "ar": "سترة ضغط رجالية للصدر"
    },
    "desc": {
-    "en": "It is a compression garment made of Auralipo fabric used after breast reduction operations. Auralipo fabric provides compression for 8 weeks with its 5-fold resistance. Produced with seamless technology, the corset covers the body like a skin. The velcro system on the back makes it easier to put on and take off.",
-    "ar": "سترة ضغط رجالية من قماش أورا ليبو، تُستخدم بعد عمليات تصغير الصدر. توفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومتها المضاعفة 5 مرات. نظام الفيلكرو في الخلف يسهّل اللبس والخلع."
+    "en": "It is a compression garment made of Aurafix fabric used after breast reduction operations. Aurafix fabric provides compression for 8 weeks with its 5-fold resistance. Produced with seamless technology, the corset covers the body like a skin. The velcro system on the back makes it easier to put on and take off.",
+    "ar": "سترة ضغط رجالية من قماش أورافكس، تُستخدم بعد عمليات تصغير الصدر. توفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومتها المضاعفة 5 مرات. نظام الفيلكرو في الخلف يسهّل اللبس والخلع."
    },
    "ind": {
     "en": [
@@ -1518,8 +1518,8 @@ window.CATALOG = {
     "ar": "حمالة صدر طبية بعد العمليات"
    },
    "desc": {
-    "en": "It is a bra made of Auralipocotton fabric used after breast augmentation and reduction operations. Produced with seamless technology, the corset wraps the body like a skin. The hooks used in the 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression.",
-    "ar": "حمالة صدر طبية من قماش أورا ليبو كوتن، تُستخدم بعد عمليات تكبير الصدر وتصغيره. مصنوعة بتقنية بدون خياطة فتلتف حول الجسم كبشرة ثانية. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
+    "en": "It is a bra made of Aurafix Cotton fabric used after breast augmentation and reduction operations. Produced with seamless technology, the corset wraps the body like a skin. The hooks used in the 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression.",
+    "ar": "حمالة صدر طبية من قماش أورافكس كوتن، تُستخدم بعد عمليات تكبير الصدر وتصغيره. مصنوعة بتقنية بدون خياطة فتلتف حول الجسم كبشرة ثانية. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
    },
    "ind": {
     "en": [
@@ -1555,8 +1555,8 @@ window.CATALOG = {
     "ar": "حمالة صدر طبية بسحّاب أمامي"
    },
    "desc": {
-    "en": "It is a bra made of Auralipocotton and Auralipo fabric used after breast augmentation and reduction operations. It provides easy putting on and taking off with its front zipper structure.",
-    "ar": "حمالة صدر طبية من قماش أورا ليبو كوتن وأورا ليبو، تُستخدم بعد عمليات تكبير الصدر وتصغيره، وتتميز بسحّاب أمامي يسهّل اللبس والخلع."
+    "en": "It is a bra made of Aurafix Cotton and Aurafix fabric used after breast augmentation and reduction operations. It provides easy putting on and taking off with its front zipper structure.",
+    "ar": "حمالة صدر طبية من قماش أورافكس كوتن وأورافكس، تُستخدم بعد عمليات تكبير الصدر وتصغيره، وتتميز بسحّاب أمامي يسهّل اللبس والخلع."
    },
    "ind": {
     "en": [
@@ -1592,8 +1592,8 @@ window.CATALOG = {
     "ar": "حمالة صدر طبية مع رباط تثبيت"
    },
    "desc": {
-    "en": "It is a bra made of Auralipocotton and Auralipo fabric used after breast augmentation and reduction operations. The hooks used in the 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression.",
-    "ar": "حمالة صدر طبية من قماش أورا ليبو كوتن وأورا ليبو مع رباط علوي، تُستخدم بعد عمليات تكبير الصدر وتصغيره. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
+    "en": "It is a bra made of Aurafix Cotton and Aurafix fabric used after breast augmentation and reduction operations. The hooks used in the 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression.",
+    "ar": "حمالة صدر طبية من قماش أورافكس كوتن وأورافكس مع رباط علوي، تُستخدم بعد عمليات تكبير الصدر وتصغيره. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
    },
    "ind": {
     "en": [
@@ -1661,8 +1661,8 @@ window.CATALOG = {
     "ar": "حمالة صدر طبية – سلسلة C"
    },
    "desc": {
-    "en": "It is a bra made of Auralipocotton and Auralipo fabric used after breast augmentation and reduction operations. Produced with seamless technology, the corset wraps the body like a skin. The hooks used in the 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression.",
-    "ar": "حمالة صدر طبية من قماش أورا ليبو كوتن وأورا ليبو، تُستخدم بعد عمليات تكبير الصدر وتصغيره. مصنوعة بتقنية بدون خياطة فتلتف حول الجسم كبشرة ثانية. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
+    "en": "It is a bra made of Aurafix Cotton and Aurafix fabric used after breast augmentation and reduction operations. Produced with seamless technology, the corset wraps the body like a skin. The hooks used in the 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression.",
+    "ar": "حمالة صدر طبية من قماش أورافكس كوتن وأورافكس، تُستخدم بعد عمليات تكبير الصدر وتصغيره. مصنوعة بتقنية بدون خياطة فتلتف حول الجسم كبشرة ثانية. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
    },
    "ind": {
     "en": [
@@ -1698,8 +1698,8 @@ window.CATALOG = {
     "ar": "حمالة صدر طبية بسحّاب أمامي – سلسلة C"
    },
    "desc": {
-    "en": "It is a bra made of Auralipocotton and Auralipo fabric used after breast augmentation and reduction operations. It provides easy putting on and taking off with its front zipper structure.",
-    "ar": "حمالة صدر طبية من قماش أورا ليبو كوتن وأورا ليبو بسحّاب أمامي يسهّل اللبس والخلع، تُستخدم بعد عمليات تكبير الصدر وتصغيره."
+    "en": "It is a bra made of Aurafix Cotton and Aurafix fabric used after breast augmentation and reduction operations. It provides easy putting on and taking off with its front zipper structure.",
+    "ar": "حمالة صدر طبية من قماش أورافكس كوتن وأورافكس بسحّاب أمامي يسهّل اللبس والخلع، تُستخدم بعد عمليات تكبير الصدر وتصغيره."
    },
    "ind": {
     "en": [
@@ -1735,8 +1735,8 @@ window.CATALOG = {
     "ar": "حمالة صدر طبية مع رباط – سلسلة C"
    },
    "desc": {
-    "en": "It is a bra made of Auralipocotton and Auralipo fabric used after breast augmentation and reduction operations. The hooks used in the 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression.",
-    "ar": "حمالة صدر طبية مع رباط علوي من قماش أورا ليبو كوتن وأورا ليبو، تُستخدم بعد عمليات تكبير الصدر وتصغيره. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
+    "en": "It is a bra made of Aurafix Cotton and Aurafix fabric used after breast augmentation and reduction operations. The hooks used in the 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression.",
+    "ar": "حمالة صدر طبية مع رباط علوي من قماش أورافكس كوتن وأورافكس، تُستخدم بعد عمليات تكبير الصدر وتصغيره. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
    },
    "ind": {
     "en": [
@@ -1772,8 +1772,8 @@ window.CATALOG = {
     "ar": "رباط الوجه والرقبة والذقن"
    },
    "desc": {
-    "en": "It is a bandage made of Auralipo fabric used after facelift, chin and neck liposuction operations. With the Velcro system, it provides a comfortable tightness by compressing from 3 points over the head and behind the head. It also provides even compression to the neck and jaw thanks to Auralipo.",
-    "ar": "رباط من قماش أورا ليبو يُستخدم بعد عمليات شد الوجه وشفط دهون الذقن والرقبة. يوفر بنظام الفيلكرو شدّاً مريحاً من 3 نقاط فوق الرأس وخلفه، مع ضغط متساوٍ على الرقبة والفك."
+    "en": "It is a bandage made of Aurafix fabric used after facelift, chin and neck liposuction operations. With the Velcro system, it provides a comfortable tightness by compressing from 3 points over the head and behind the head. It also provides even compression to the neck and jaw thanks to Aurafix.",
+    "ar": "رباط من قماش أورافكس يُستخدم بعد عمليات شد الوجه وشفط دهون الذقن والرقبة. يوفر بنظام الفيلكرو شدّاً مريحاً من 3 نقاط فوق الرأس وخلفه، مع ضغط متساوٍ على الرقبة والفك."
    },
    "ind": {
     "en": [
@@ -1802,8 +1802,8 @@ window.CATALOG = {
     "ar": "رباط الوجه والرقبة والذقن – E"
    },
    "desc": {
-    "en": "It is a bandage made of Auralipo fabric used after facelift, chin and neck liposuction operations. With the Velcro system, it provides a comfortable tightness by compressing from 3 points over the head and behind the head. It also provides even compression to the neck and jaw thanks to Auralipo.",
-    "ar": "رباط من قماش أورا ليبو يُستخدم بعد عمليات شد الوجه وشفط دهون الذقن والرقبة. يوفر بنظام الفيلكرو شدّاً مريحاً من 3 نقاط فوق الرأس وخلفه، مع ضغط متساوٍ على الرقبة والفك."
+    "en": "It is a bandage made of Aurafix fabric used after facelift, chin and neck liposuction operations. With the Velcro system, it provides a comfortable tightness by compressing from 3 points over the head and behind the head. It also provides even compression to the neck and jaw thanks to Aurafix.",
+    "ar": "رباط من قماش أورافكس يُستخدم بعد عمليات شد الوجه وشفط دهون الذقن والرقبة. يوفر بنظام الفيلكرو شدّاً مريحاً من 3 نقاط فوق الرأس وخلفه، مع ضغط متساوٍ على الرقبة والفك."
    },
    "ind": {
     "en": [
@@ -1862,8 +1862,8 @@ window.CATALOG = {
     "ar": "سترة ضغط نسائية بعد العمليات"
    },
    "desc": {
-    "en": "It is a compression garment made of Auralipo fabric used after fat removal operations on arms, shoulders, breasts, abdomen, thighs, knees and all body parts. Auralipo fabric provides compression for 8 weeks with its 5-fold resistance. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression.",
-    "ar": "سترة ضغط مصنوعة من قماش أورا ليبو، يُستخدم بعد عمليات شفط الدهون في الذراعين والكتفين والصدر والبطن. توفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومتها المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
+    "en": "It is a compression garment made of Aurafix fabric used after fat removal operations on arms, shoulders, breasts, abdomen, thighs, knees and all body parts. Aurafix fabric provides compression for 8 weeks with its 5-fold resistance. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corsets with 3 stages provide a personalized experience in compression.",
+    "ar": "سترة ضغط مصنوعة من قماش أورافكس، يُستخدم بعد عمليات شفط الدهون في الذراعين والكتفين والصدر والبطن. توفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومتها المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
    },
    "ind": {
     "en": [
@@ -1896,8 +1896,8 @@ window.CATALOG = {
     "ar": "أكمام ضغط نسائية (صدر مغلق / سحّاب)"
    },
    "desc": {
-    "en": "It is a compression garment made of Auralipo fabric used after fat removal operations in the shoulder and arm areas. Auralipo fabric provides compression for 8 weeks with its 5-fold resistance. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corset with 3 stages provide a personalized experience in compression.",
-    "ar": "سترة ضغط مصنوعة من قماش أورا ليبو، يُستخدم بعد عمليات شفط الدهون في الكتفين والذراعين. توفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومتها المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
+    "en": "It is a compression garment made of Aurafix fabric used after fat removal operations in the shoulder and arm areas. Aurafix fabric provides compression for 8 weeks with its 5-fold resistance. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corset with 3 stages provide a personalized experience in compression.",
+    "ar": "سترة ضغط مصنوعة من قماش أورافكس، يُستخدم بعد عمليات شفط الدهون في الكتفين والذراعين. توفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومتها المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
    },
    "ind": {
     "en": [
@@ -1930,8 +1930,8 @@ window.CATALOG = {
     "ar": "سترة ضغط نسائية للكتف والذراع والظهر"
    },
    "desc": {
-    "en": "It is a compression garment made of Auralipo fabric used after fat removal operations in the shoulder, arm and back areas. Auralipo fabric provides compression for 8 weeks with its 5-fold resistance. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corset with 3 stages provide a personalized experience in compression.",
-    "ar": "سترة ضغط مصنوعة من قماش أورا ليبو، يُستخدم بعد عمليات شفط الدهون في الكتفين والذراعين والظهر. توفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومتها المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
+    "en": "It is a compression garment made of Aurafix fabric used after fat removal operations in the shoulder, arm and back areas. Aurafix fabric provides compression for 8 weeks with its 5-fold resistance. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corset with 3 stages provide a personalized experience in compression.",
+    "ar": "سترة ضغط مصنوعة من قماش أورافكس، يُستخدم بعد عمليات شفط الدهون في الكتفين والذراعين والظهر. توفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومتها المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
    },
    "ind": {
     "en": [
@@ -1964,8 +1964,8 @@ window.CATALOG = {
     "ar": "أكمام ضغط نسائية بعد العمليات"
    },
    "desc": {
-    "en": "It is a compression garment made of Auralipo fabric used after fat removal operations in the shoulder and arm areas. Auralipo fabric provides compression for 8 weeks with its 5-fold resistance. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corset with 3 stages provide a personalized experience in compression.",
-    "ar": "سترة ضغط مصنوعة من قماش أورا ليبو، يُستخدم بعد عمليات شفط الدهون في الكتفين والذراعين. توفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومتها المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
+    "en": "It is a compression garment made of Aurafix fabric used after fat removal operations in the shoulder and arm areas. Aurafix fabric provides compression for 8 weeks with its 5-fold resistance. The 3-row clasp system allows for easy putting on and taking off. Besides, the hooks that increase the resistance of the corset with 3 stages provide a personalized experience in compression.",
+    "ar": "سترة ضغط مصنوعة من قماش أورافكس، يُستخدم بعد عمليات شفط الدهون في الكتفين والذراعين. توفر ضغطاً فعالاً لمدة 8 أسابيع بفضل مقاومتها المضاعفة 5 مرات. نظام الإغلاق بالخطافات ذو الصفوف الثلاثة يسهّل اللبس والخلع، ويتيح ضبط درجة الضغط على ثلاث مراحل حسب حاجة المريض."
    },
    "ind": {
     "en": [
@@ -2114,8 +2114,8 @@ window.CATALOG = {
     "ar": "حامل أنابيب التصريف (Drain Set)"
    },
    "desc": {
-    "en": "It is a drain set made of Auralipo fabric. Auralipo fabric carries the drain sets safely with its resistant and robust structure. Provides patient comfort with seamless technology.",
-    "ar": "حامل للدرنقة مصنوع من قماش أورا ليبو، يحمل أنابيب التصريف بأمان بفضل متانته، ويوفر راحة للمريض بتقنية بدون خياطة."
+    "en": "It is a drain set made of Aurafix fabric. Aurafix fabric carries the drain sets safely with its resistant and robust structure. Provides patient comfort with seamless technology.",
+    "ar": "حامل للدرنقة مصنوع من قماش أورافكس، يحمل أنابيب التصريف بأمان بفضل متانته، ويوفر راحة للمريض بتقنية بدون خياطة."
    },
    "ind": {
     "en": [

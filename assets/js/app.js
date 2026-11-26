@@ -28,7 +28,7 @@
       details: 'التفاصيل', indications: 'دواعي الاستخدام', sizeChart: 'جدول المقاسات',
       quote: 'اطلب عرض سعر عبر واتساب', brochure: 'تحميل الكتالوج (PDF)',
       specs: 'المواصفات', modules: 'التقنيات المدمجة', steps: 'خطوات الجلسة', goodFor: 'مناسب لـ',
-      variant: 'متوفر أيضاً بقماش أورا ليبو كوتن:', view: 'عرض المنتج',
+      variant: 'متوفر أيضاً بقماش أورافكس كوتن:', view: 'عرض المنتج',
       waMsg: function (p) { return 'مرحباً، أرغب في عرض سعر للمنتج: ' + p.id + ' — ' + p.title.ar; },
       waGeneral: 'مرحباً، أرغب في الاستفسار عن منتجاتكم.',
       other: 'English', title: 'أورافكس للمنتجات الصحية | كتالوج المنتجات'
@@ -57,7 +57,7 @@
       details: 'Details', indications: 'Indications', sizeChart: 'Size chart',
       quote: 'Request a quote on WhatsApp', brochure: 'Download brochure (PDF)',
       specs: 'Specifications', modules: 'Built-in technologies', steps: 'Treatment steps', goodFor: 'Good for',
-      variant: 'Also available in Aura Lipo Cotton:', view: 'View product',
+      variant: 'Also available in Aurafix Cotton:', view: 'View product',
       waMsg: function (p) { return 'Hello, I would like a quote for: ' + p.id + ' — ' + p.title.en; },
       waGeneral: 'Hello, I would like to ask about your products.',
       other: 'العربية', title: 'Aurafix Health Products | Product Catalog'
