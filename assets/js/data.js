@@ -2,12 +2,12 @@
 window.CATALOG = {
  "company": {
   "name": {
-   "en": "Aurafix Health Products",
-   "ar": "أورافكس للمنتجات الصحية"
+   "en": "Sea Heart Group",
+   "ar": "مجموعة سي هارت"
   },
   "tagline": {
-   "en": "Health Products",
-   "ar": "منتجات صحية"
+   "en": "Where Science Meets Aesthetics",
+   "ar": "حيث يلتقي العلم بالجمال"
   },
   "phone": "+966568755182",
   "phoneDisplay": "+966 56 875 5182",
