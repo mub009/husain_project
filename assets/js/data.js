@@ -6,8 +6,8 @@ window.CATALOG = {
    "ar": "أورافكس للمنتجات الصحية"
   },
   "tagline": {
-   "en": "Technology for better healthcare",
-   "ar": "تقنية من أجل رعاية صحية أفضل"
+   "en": "Health Products",
+   "ar": "منتجات صحية"
   },
   "phone": "+966568755182",
   "phoneDisplay": "+966 56 875 5182",
@@ -384,7 +384,7 @@ window.CATALOG = {
   {
    "id": "SA-DM3",
    "cat": "devices",
-   "brand": "Sea Heart",
+   "brand": "Aurafix",
    "featured": true,
    "title": {
     "en": "SA-DM3 Facial AI Intelligent Imager",
