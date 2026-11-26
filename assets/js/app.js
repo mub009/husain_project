@@ -31,7 +31,7 @@
       variant: 'متوفر أيضاً بقماش أورا ليبو كوتن:', view: 'عرض المنتج',
       waMsg: function (p) { return 'مرحباً، أرغب في عرض سعر للمنتج: ' + p.id + ' — ' + p.title.ar; },
       waGeneral: 'مرحباً، أرغب في الاستفسار عن منتجاتكم.',
-      other: 'English', title: 'مجموعة سي هارت | كتالوج المنتجات'
+      other: 'English', title: 'أورافكس للمنتجات الصحية | كتالوج المنتجات'
     },
     en: {
       skip: 'Skip to products', company: co.name.en, tagline: co.tagline.en,
@@ -60,7 +60,7 @@
       variant: 'Also available in Aura Lipo Cotton:', view: 'View product',
       waMsg: function (p) { return 'Hello, I would like a quote for: ' + p.id + ' — ' + p.title.en; },
       waGeneral: 'Hello, I would like to ask about your products.',
-      other: 'العربية', title: 'Sea Heart Group | Product Catalog'
+      other: 'العربية', title: 'Aurafix Health Products | Product Catalog'
     }
   };
 

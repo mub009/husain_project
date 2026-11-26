@@ -2,8 +2,8 @@
 window.CATALOG = {
  "company": {
   "name": {
-   "en": "Sea Heart Group",
-   "ar": "مجموعة سي هارت"
+   "en": "Aurafix Health Products",
+   "ar": "أورافكس للمنتجات الصحية"
   },
   "tagline": {
    "en": "Technology for better healthcare",

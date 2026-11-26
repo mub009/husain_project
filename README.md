@@ -1,6 +1,6 @@
-# Sea Heart Group — Product Catalog
+# Aurafix Health Products — Product Catalog
 
-Bilingual (Arabic default, English toggle) product catalog website for Sea Heart Group.
+Bilingual (Arabic default, English toggle) product catalog website for Aurafix Health Products.
 Plain HTML/CSS/JS — no build step. Open `index.html` in a browser or host it on GitHub Pages.
 
 ## What's inside
